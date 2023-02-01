@@ -1,3 +1,3 @@
-baseurl: /zoubaihan.github.io
+# baseurl: /zoubaihan.github.io
 #theme: cayman
 remote_theme: pages-themes/cayman@v0.2.0
